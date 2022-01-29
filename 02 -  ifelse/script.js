@@ -1,4 +1,4 @@
-*SUBA O DESAFIO NO GITHUB E ENTREGUE O LINK DO CÓDIGO AQUI, (NÃO PRECISA COLOCAR ONLINE)
+//*SUBA O DESAFIO NO GITHUB E ENTREGUE O LINK DO CÓDIGO AQUI, (NÃO PRECISA COLOCAR ONLINE)
 
 //1 - Crie uma condição que exiba uma mensagem no console se a idade for maior que 18
 
